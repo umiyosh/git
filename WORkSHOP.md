@@ -6,11 +6,15 @@
   1. 社外アクセス用のproxyの設定
     ホワイトボードのコマンドを実行してください。
   2. パッケージマネージャのインストール
-```
-  $ hoge fuga
-  $ hoge fuga
-```
+``` javascript
+var fun = function (msg) {
+  alert(arguments.callee.bar + msg);
+};
+// object なので
+fun.bar = 'foobar';
 
+fun();
+```
   3. 社外アクセス用のproxyの設定
 
 ## 研修用資料
