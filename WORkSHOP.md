@@ -7,7 +7,7 @@
     ホワイトボードのコマンドを実行してください。
   2. パッケージマネージャのインストール
 
-``` javascript
+```
 var fun = function (msg) {
   alert(arguments.callee.bar + msg);
 };
