@@ -159,7 +159,7 @@ $ /usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.github.com/mxcl/homebrew/
   $ cd trainingA
   ```
 
-## 研修用資料
+## 研修用資料 change02
 
 * [Title](https://github.com/umiyosh/git/blob/master/README.md)
 
